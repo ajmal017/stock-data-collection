@@ -1,0 +1,1637 @@
+{
+    "HES": {
+        "short": true
+    },
+    "MRNA": {
+        "short": true
+    },
+    "JWN": {
+        "short": false
+    },
+    "SPG": {
+        "short": true
+    },
+    "INFY": {
+        "short": true
+    },
+    "DKS": {
+        "short": true
+    },
+    "CZR": {
+        "short": true
+    },
+    "MUR": {
+        "short": true
+    },
+    "RIG": {
+        "short": true
+    },
+    "TWLO": {
+        "short": true
+    },
+    "SDS": {
+        "short": true
+    },
+    "SQ": {
+        "short": true
+    },
+    "LB": {
+        "short": true
+    },
+    "TQQQ": {
+        "short": true
+    },
+    "WKHS": {
+        "short": false
+    },
+    "SOXS": {
+        "short": true
+    },
+    "JNPR": {
+        "short": true
+    },
+    "EQT": {
+        "short": true
+    },
+    "ERX": {
+        "short": true
+    },
+    "DISH": {
+        "short": true
+    },
+    "VXRT": {
+        "short": false
+    },
+    "JPM": {
+        "short": true
+    },
+    "CPRI": {
+        "short": true
+    },
+    "VIAC": {
+        "short": true
+    },
+    "KKR": {
+        "short": true
+    },
+    "PINS": {
+        "short": true
+    },
+    "DRI": {
+        "short": true
+    },
+    "IPG": {
+        "short": true
+    },
+    "HYG": {
+        "short": true
+    },
+    "CFG": {
+        "short": true
+    },
+    "D": {
+        "short": true
+    },
+    "FEYE": {
+        "short": true
+    },
+    "TU": {
+        "short": true
+    },
+    "KOS": {
+        "short": true
+    },
+    "COP": {
+        "short": true
+    },
+    "MPW": {
+        "short": true
+    },
+    "DXC": {
+        "short": true
+    },
+    "EW": {
+        "short": true
+    },
+    "MRK": {
+        "short": true
+    },
+    "LXP": {
+        "short": true
+    },
+    "JCI": {
+        "short": true
+    },
+    "XLRE": {
+        "short": true
+    },
+    "BA": {
+        "short": true
+    },
+    "MCHP": {
+        "short": true
+    },
+    "SWN": {
+        "short": true
+    },
+    "USO": {
+        "short": true
+    },
+    "GLW": {
+        "short": true
+    },
+    "XOM": {
+        "short": true
+    },
+    "PRU": {
+        "short": true
+    },
+    "CNQ": {
+        "short": true
+    },
+    "KR": {
+        "short": true
+    },
+    "IWR": {
+        "short": true
+    },
+    "EVRI": {
+        "short": true
+    },
+    "DIS": {
+        "short": true
+    },
+    "SVXY": {
+        "short": true
+    },
+    "VNQ": {
+        "short": true
+    },
+    "HOLX": {
+        "short": true
+    },
+    "UA": {
+        "short": true
+    },
+    "AEO": {
+        "short": true
+    },
+    "WEN": {
+        "short": true
+    },
+    "SBUX": {
+        "short": true
+    },
+    "T": {
+        "short": true
+    },
+    "LOW": {
+        "short": true
+    },
+    "ARMK": {
+        "short": true
+    },
+    "LLY": {
+        "short": true
+    },
+    "VIXY": {
+        "short": true
+    },
+    "ASB": {
+        "short": true
+    },
+    "NVDA": {
+        "short": true
+    },
+    "AAL": {
+        "short": false
+    },
+    "RIGL": {
+        "short": false
+    },
+    "STWD": {
+        "short": true
+    },
+    "EPD": {
+        "short": true
+    },
+    "OLN": {
+        "short": true
+    },
+    "XME": {
+        "short": true
+    },
+    "BAC": {
+        "short": true
+    },
+    "STL": {
+        "short": true
+    },
+    "GLUU": {
+        "short": true
+    },
+    "DKNG": {
+        "short": false
+    },
+    "ACGL": {
+        "short": true
+    },
+    "SAVE": {
+        "short": true
+    },
+    "MTDR": {
+        "short": true
+    },
+    "CF": {
+        "short": true
+    },
+    "MU": {
+        "short": true
+    },
+    "BWA": {
+        "short": true
+    },
+    "SE": {
+        "short": true
+    },
+    "BAX": {
+        "short": true
+    },
+    "PDCE": {
+        "short": true
+    },
+    "CL": {
+        "short": true
+    },
+    "WM": {
+        "short": true
+    },
+    "BRX": {
+        "short": true
+    },
+    "CLVS": {
+        "short": false
+    },
+    "ENPH": {
+        "short": true
+    },
+    "DBI": {
+        "short": true
+    },
+    "AXP": {
+        "short": true
+    },
+    "HRB": {
+        "short": true
+    },
+    "SPCE": {
+        "short": false
+    },
+    "GIS": {
+        "short": true
+    },
+    "DAL": {
+        "short": true
+    },
+    "TSM": {
+        "short": true
+    },
+    "DHR": {
+        "short": true
+    },
+    "SPXL": {
+        "short": true
+    },
+    "AMRN": {
+        "short": true
+    },
+    "XLB": {
+        "short": true
+    },
+    "UNP": {
+        "short": true
+    },
+    "NWL": {
+        "short": true
+    },
+    "IGT": {
+        "short": true
+    },
+    "AUY": {
+        "short": true
+    },
+    "DT": {
+        "short": true
+    },
+    "CVS": {
+        "short": true
+    },
+    "MPLX": {
+        "short": true
+    },
+    "MOS": {
+        "short": true
+    },
+    "MIK": {
+        "short": true
+    },
+    "PTON": {
+        "short": true
+    },
+    "WU": {
+        "short": true
+    },
+    "ATI": {
+        "short": true
+    },
+    "HBI": {
+        "short": true
+    },
+    "ALLY": {
+        "short": true
+    },
+    "BK": {
+        "short": true
+    },
+    "IJR": {
+        "short": true
+    },
+    "GNW": {
+        "short": true
+    },
+    "PGR": {
+        "short": true
+    },
+    "NLOK": {
+        "short": true
+    },
+    "ISBC": {
+        "short": true
+    },
+    "GDXJ": {
+        "short": true
+    },
+    "MRVL": {
+        "short": true
+    },
+    "SCHW": {
+        "short": true
+    },
+    "JD": {
+        "short": true
+    },
+    "FB": {
+        "short": true
+    },
+    "GE": {
+        "short": true
+    },
+    "NI": {
+        "short": true
+    },
+    "WEC": {
+        "short": true
+    },
+    "EFA": {
+        "short": true
+    },
+    "ANF": {
+        "short": true
+    },
+    "JDST": {
+        "short": false
+    },
+    "GLD": {
+        "short": true
+    },
+    "LTHM": {
+        "short": true
+    },
+    "VZ": {
+        "short": true
+    },
+    "SCI": {
+        "short": true
+    },
+    "YINN": {
+        "short": true
+    },
+    "HIG": {
+        "short": true
+    },
+    "AU": {
+        "short": true
+    },
+    "BHP": {
+        "short": true
+    },
+    "PAAS": {
+        "short": true
+    },
+    "GPN": {
+        "short": true
+    },
+    "MAC": {
+        "short": false
+    },
+    "MOMO": {
+        "short": true
+    },
+    "VBIV": {
+        "short": false
+    },
+    "ERJ": {
+        "short": true
+    },
+    "WORK": {
+        "short": true
+    },
+    "BABA": {
+        "short": true
+    },
+    "SPAQ": {
+        "short": false
+    },
+    "NLSN": {
+        "short": true
+    },
+    "EWZ": {
+        "short": true
+    },
+    "VCIT": {
+        "short": true
+    },
+    "GPK": {
+        "short": true
+    },
+    "NYMT": {
+        "short": true
+    },
+    "ALT": {
+        "short": false
+    },
+    "PAA": {
+        "short": true
+    },
+    "CTL": {
+        "short": true
+    },
+    "LEN": {
+        "short": true
+    },
+    "MT": {
+        "short": true
+    },
+    "QCOM": {
+        "short": true
+    },
+    "RLGY": {
+        "short": true
+    },
+    "ABEV": {
+        "short": true
+    },
+    "TLT": {
+        "short": true
+    },
+    "XLI": {
+        "short": true
+    },
+    "HBAN": {
+        "short": true
+    },
+    "SPWR": {
+        "short": true
+    },
+    "ALL": {
+        "short": true
+    },
+    "PLUG": {
+        "short": false
+    },
+    "SPXU": {
+        "short": true
+    },
+    "TRGP": {
+        "short": true
+    },
+    "COTY": {
+        "short": true
+    },
+    "ETSY": {
+        "short": true
+    },
+    "MFC": {
+        "short": true
+    },
+    "WBT": {
+        "short": true
+    },
+    "VG": {
+        "short": true
+    },
+    "JNK": {
+        "short": true
+    },
+    "MDT": {
+        "short": true
+    },
+    "IYR": {
+        "short": true
+    },
+    "DISCA": {
+        "short": true
+    },
+    "WDC": {
+        "short": true
+    },
+    "STOR": {
+        "short": true
+    },
+    "MTG": {
+        "short": true
+    },
+    "CAKE": {
+        "short": true
+    },
+    "UBER": {
+        "short": true
+    },
+    "NTAP": {
+        "short": true
+    },
+    "PBCT": {
+        "short": true
+    },
+    "TEVA": {
+        "short": true
+    },
+    "IVR": {
+        "short": false
+    },
+    "DRE": {
+        "short": true
+    },
+    "LVS": {
+        "short": true
+    },
+    "EQH": {
+        "short": true
+    },
+    "SPXS": {
+        "short": true
+    },
+    "NLY": {
+        "short": true
+    },
+    "PLAN": {
+        "short": true
+    },
+    "MAS": {
+        "short": true
+    },
+    "C": {
+        "short": true
+    },
+    "PBF": {
+        "short": true
+    },
+    "WSC": {
+        "short": true
+    },
+    "GOLD": {
+        "short": true
+    },
+    "UNM": {
+        "short": true
+    },
+    "MS": {
+        "short": true
+    },
+    "SLB": {
+        "short": true
+    },
+    "ET": {
+        "short": true
+    },
+    "SRTY": {
+        "short": false
+    },
+    "GDX": {
+        "short": true
+    },
+    "ON": {
+        "short": true
+    },
+    "COF": {
+        "short": true
+    },
+    "CCL": {
+        "short": false
+    },
+    "SO": {
+        "short": true
+    },
+    "AZN": {
+        "short": true
+    },
+    "BSX": {
+        "short": true
+    },
+    "KEY": {
+        "short": true
+    },
+    "FIS": {
+        "short": true
+    },
+    "SPY": {
+        "short": true
+    },
+    "EWU": {
+        "short": true
+    },
+    "MCD": {
+        "short": true
+    },
+    "TWO": {
+        "short": true
+    },
+    "TRIP": {
+        "short": true
+    },
+    "MAR": {
+        "short": true
+    },
+    "VLO": {
+        "short": true
+    },
+    "LNC": {
+        "short": true
+    },
+    "DRIP": {
+        "short": false
+    },
+    "XRX": {
+        "short": true
+    },
+    "GSK": {
+        "short": true
+    },
+    "HOG": {
+        "short": true
+    },
+    "NUAN": {
+        "short": true
+    },
+    "AFL": {
+        "short": true
+    },
+    "FTNT": {
+        "short": true
+    },
+    "CNK": {
+        "short": true
+    },
+    "KGC": {
+        "short": true
+    },
+    "PE": {
+        "short": true
+    },
+    "PCAR": {
+        "short": true
+    },
+    "XOP": {
+        "short": true
+    },
+    "AM": {
+        "short": true
+    },
+    "SABR": {
+        "short": true
+    },
+    "GGB": {
+        "short": true
+    },
+    "EQNR": {
+        "short": true
+    },
+    "SQQQ": {
+        "short": true
+    },
+    "ERI": {
+        "short": true
+    },
+    "BOX": {
+        "short": true
+    },
+    "TCOM": {
+        "short": true
+    },
+    "HPE": {
+        "short": true
+    },
+    "EXPE": {
+        "short": true
+    },
+    "CIM": {
+        "short": true
+    },
+    "EOG": {
+        "short": true
+    },
+    "DRH": {
+        "short": true
+    },
+    "TNA": {
+        "short": true
+    },
+    "CMS": {
+        "short": true
+    },
+    "AMD": {
+        "short": true
+    },
+    "LQD": {
+        "short": true
+    },
+    "PLD": {
+        "short": true
+    },
+    "ENB": {
+        "short": true
+    },
+    "IRM": {
+        "short": true
+    },
+    "CAR": {
+        "short": true
+    },
+    "OPK": {
+        "short": false
+    },
+    "NRZ": {
+        "short": true
+    },
+    "SIX": {
+        "short": true
+    },
+    "EEM": {
+        "short": true
+    },
+    "NEE": {
+        "short": true
+    },
+    "NTRS": {
+        "short": true
+    },
+    "GPS": {
+        "short": true
+    },
+    "ETN": {
+        "short": true
+    },
+    "PFE": {
+        "short": true
+    },
+    "BBBY": {
+        "short": true
+    },
+    "FULT": {
+        "short": true
+    },
+    "TW": {
+        "short": true
+    },
+    "MFA": {
+        "short": true
+    },
+    "HST": {
+        "short": true
+    },
+    "DENN": {
+        "short": true
+    },
+    "LABD": {
+        "short": true
+    },
+    "IMGN": {
+        "short": true
+    },
+    "FHN": {
+        "short": true
+    },
+    "ADM": {
+        "short": true
+    },
+    "ZM": {
+        "short": true
+    },
+    "HPQ": {
+        "short": true
+    },
+    "FXI": {
+        "short": false
+    },
+    "HD": {
+        "short": true
+    },
+    "SRNE": {
+        "short": false
+    },
+    "PEG": {
+        "short": true
+    },
+    "BDN": {
+        "short": true
+    },
+    "PSQ": {
+        "short": true
+    },
+    "NYCB": {
+        "short": true
+    },
+    "OVV": {
+        "short": true
+    },
+    "ITUB": {
+        "short": true
+    },
+    "QID": {
+        "short": true
+    },
+    "MRO": {
+        "short": true
+    },
+    "AEP": {
+        "short": true
+    },
+    "VIAV": {
+        "short": true
+    },
+    "IWM": {
+        "short": false
+    },
+    "CVE": {
+        "short": true
+    },
+    "STLD": {
+        "short": true
+    },
+    "GSX": {
+        "short": false
+    },
+    "CRWD": {
+        "short": false
+    },
+    "NEM": {
+        "short": true
+    },
+    "PLNT": {
+        "short": true
+    },
+    "STX": {
+        "short": true
+    },
+    "SITC": {
+        "short": true
+    },
+    "PEAK": {
+        "short": true
+    },
+    "HTHT": {
+        "short": true
+    },
+    "FITB": {
+        "short": true
+    },
+    "XLY": {
+        "short": true
+    },
+    "TECK": {
+        "short": true
+    },
+    "KSS": {
+        "short": true
+    },
+    "BB": {
+        "short": true
+    },
+    "PSX": {
+        "short": true
+    },
+    "FCEL": {
+        "short": false
+    },
+    "VIPS": {
+        "short": true
+    },
+    "SFM": {
+        "short": true
+    },
+    "AAPL": {
+        "short": true
+    },
+    "CTSH": {
+        "short": true
+    },
+    "HL": {
+        "short": true
+    },
+    "FSLY": {
+        "short": true
+    },
+    "RLJ": {
+        "short": true
+    },
+    "AIG": {
+        "short": true
+    },
+    "AG": {
+        "short": true
+    },
+    "BMY": {
+        "short": true
+    },
+    "CPE": {
+        "short": false
+    },
+    "IAU": {
+        "short": true
+    },
+    "CC": {
+        "short": true
+    },
+    "JBLU": {
+        "short": true
+    },
+    "UCO": {
+        "short": true
+    },
+    "PHM": {
+        "short": true
+    },
+    "HAL": {
+        "short": true
+    },
+    "AMLP": {
+        "short": true
+    },
+    "CIEN": {
+        "short": true
+    },
+    "IQ": {
+        "short": true
+    },
+    "XLE": {
+        "short": true
+    },
+    "LLNW": {
+        "short": true
+    },
+    "UAVS": {
+        "short": false
+    },
+    "CSX": {
+        "short": true
+    },
+    "BILI": {
+        "short": true
+    },
+    "ESRT": {
+        "short": true
+    },
+    "QQQ": {
+        "short": true
+    },
+    "HUN": {
+        "short": true
+    },
+    "JEF": {
+        "short": true
+    },
+    "NRG": {
+        "short": true
+    },
+    "PCG": {
+        "short": true
+    },
+    "GFI": {
+        "short": true
+    },
+    "NG": {
+        "short": true
+    },
+    "FAZ": {
+        "short": false
+    },
+    "AES": {
+        "short": true
+    },
+    "RTX": {
+        "short": true
+    },
+    "TXN": {
+        "short": true
+    },
+    "BBD": {
+        "short": true
+    },
+    "WPX": {
+        "short": true
+    },
+    "DOW": {
+        "short": true
+    },
+    "INVH": {
+        "short": true
+    },
+    "AGEN": {
+        "short": true
+    },
+    "AGI": {
+        "short": true
+    },
+    "CARR": {
+        "short": true
+    },
+    "AR": {
+        "short": true
+    },
+    "GDDY": {
+        "short": true
+    },
+    "TWM": {
+        "short": true
+    },
+    "ZNGA": {
+        "short": true
+    },
+    "CNC": {
+        "short": true
+    },
+    "DUK": {
+        "short": true
+    },
+    "INTC": {
+        "short": true
+    },
+    "SPMD": {
+        "short": true
+    },
+    "VWO": {
+        "short": true
+    },
+    "BHC": {
+        "short": true
+    },
+    "WYNN": {
+        "short": true
+    },
+    "V": {
+        "short": true
+    },
+    "NWSA": {
+        "short": true
+    },
+    "FOLD": {
+        "short": true
+    },
+    "URBN": {
+        "short": true
+    },
+    "PNC": {
+        "short": true
+    },
+    "PAGP": {
+        "short": true
+    },
+    "BCRX": {
+        "short": false
+    },
+    "INO": {
+        "short": false
+    },
+    "EAF": {
+        "short": true
+    },
+    "PYPL": {
+        "short": true
+    },
+    "CB": {
+        "short": true
+    },
+    "SNAP": {
+        "short": true
+    },
+    "UAL": {
+        "short": true
+    },
+    "VTR": {
+        "short": true
+    },
+    "TZA": {
+        "short": true
+    },
+    "AMGN": {
+        "short": true
+    },
+    "SPR": {
+        "short": true
+    },
+    "CCJ": {
+        "short": true
+    },
+    "VXX": {
+        "short": false
+    },
+    "WRK": {
+        "short": true
+    },
+    "VST": {
+        "short": true
+    },
+    "AMZN": {
+        "short": true
+    },
+    "CLNY": {
+        "short": true
+    },
+    "AXTA": {
+        "short": true
+    },
+    "SHO": {
+        "short": true
+    },
+    "IBM": {
+        "short": true
+    },
+    "OXY": {
+        "short": true
+    },
+    "PBR": {
+        "short": true
+    },
+    "PDD": {
+        "short": true
+    },
+    "NIO": {
+        "short": false
+    },
+    "IP": {
+        "short": true
+    },
+    "CDE": {
+        "short": true
+    },
+    "CRM": {
+        "short": true
+    },
+    "XLK": {
+        "short": true
+    },
+    "JNJ": {
+        "short": true
+    },
+    "FNB": {
+        "short": true
+    },
+    "RCL": {
+        "short": true
+    },
+    "HMY": {
+        "short": true
+    },
+    "UMPQ": {
+        "short": true
+    },
+    "CNX": {
+        "short": true
+    },
+    "F": {
+        "short": true
+    },
+    "LYFT": {
+        "short": true
+    },
+    "ATUS": {
+        "short": true
+    },
+    "NAVI": {
+        "short": true
+    },
+    "DOC": {
+        "short": true
+    },
+    "NVST": {
+        "short": false
+    },
+    "SDOW": {
+        "short": true
+    },
+    "CHWY": {
+        "short": true
+    },
+    "MA": {
+        "short": true
+    },
+    "RSX": {
+        "short": true
+    },
+    "AGNC": {
+        "short": true
+    },
+    "WBA": {
+        "short": true
+    },
+    "SLM": {
+        "short": true
+    },
+    "M": {
+        "short": false
+    },
+    "OKE": {
+        "short": true
+    },
+    "XLC": {
+        "short": true
+    },
+    "CHD": {
+        "short": true
+    },
+    "NCLH": {
+        "short": true
+    },
+    "NFLX": {
+        "short": true
+    },
+    "VSLR": {
+        "short": true
+    },
+    "VICI": {
+        "short": true
+    },
+    "PEB": {
+        "short": true
+    },
+    "FOXA": {
+        "short": true
+    },
+    "PK": {
+        "short": true
+    },
+    "DVAX": {
+        "short": true
+    },
+    "TPR": {
+        "short": true
+    },
+    "BP": {
+        "short": true
+    },
+    "GILD": {
+        "short": true
+    },
+    "REZI": {
+        "short": true
+    },
+    "AMCR": {
+        "short": true
+    },
+    "PSTG": {
+        "short": true
+    },
+    "SLV": {
+        "short": true
+    },
+    "KO": {
+        "short": true
+    },
+    "BLMN": {
+        "short": true
+    },
+    "IVZ": {
+        "short": true
+    },
+    "FIT": {
+        "short": true
+    },
+    "CXO": {
+        "short": true
+    },
+    "RUN": {
+        "short": true
+    },
+    "FANG": {
+        "short": true
+    },
+    "MPC": {
+        "short": true
+    },
+    "ASHR": {
+        "short": true
+    },
+    "MSFT": {
+        "short": true
+    },
+    "DDOG": {
+        "short": true
+    },
+    "MO": {
+        "short": true
+    },
+    "APH": {
+        "short": true
+    },
+    "USFD": {
+        "short": true
+    },
+    "UAA": {
+        "short": true
+    },
+    "PM": {
+        "short": true
+    },
+    "PEP": {
+        "short": true
+    },
+    "IYE": {
+        "short": true
+    },
+    "RIO": {
+        "short": true
+    },
+    "MLCO": {
+        "short": true
+    },
+    "WFC": {
+        "short": true
+    },
+    "RPAI": {
+        "short": true
+    },
+    "UPS": {
+        "short": true
+    },
+    "NXPI": {
+        "short": true
+    },
+    "EBAY": {
+        "short": true
+    },
+    "ABT": {
+        "short": true
+    },
+    "PLAY": {
+        "short": false
+    },
+    "VEA": {
+        "short": true
+    },
+    "MYL": {
+        "short": true
+    },
+    "KHC": {
+        "short": true
+    },
+    "CLR": {
+        "short": true
+    },
+    "LUV": {
+        "short": true
+    },
+    "ROKU": {
+        "short": true
+    },
+    "FLEX": {
+        "short": true
+    },
+    "TWTR": {
+        "short": true
+    },
+    "XRT": {
+        "short": true
+    },
+    "ABBV": {
+        "short": true
+    },
+    "TAP": {
+        "short": true
+    },
+    "NTNX": {
+        "short": true
+    },
+    "DD": {
+        "short": true
+    },
+    "BBY": {
+        "short": true
+    },
+    "NVAX": {
+        "short": false
+    },
+    "BEN": {
+        "short": true
+    },
+    "BX": {
+        "short": true
+    },
+    "ING": {
+        "short": true
+    },
+    "VALE": {
+        "short": true
+    },
+    "ERIC": {
+        "short": true
+    },
+    "MDRX": {
+        "short": true
+    },
+    "ICE": {
+        "short": true
+    },
+    "NOK": {
+        "short": true
+    },
+    "CX": {
+        "short": true
+    },
+    "VER": {
+        "short": true
+    },
+    "MXIM": {
+        "short": true
+    },
+    "SIRI": {
+        "short": true
+    },
+    "X": {
+        "short": true
+    },
+    "BKR": {
+        "short": true
+    },
+    "CI": {
+        "short": true
+    },
+    "SU": {
+        "short": true
+    },
+    "CVX": {
+        "short": true
+    },
+    "EA": {
+        "short": true
+    },
+    "NKE": {
+        "short": true
+    },
+    "CSCO": {
+        "short": true
+    },
+    "SYF": {
+        "short": true
+    },
+    "TJX": {
+        "short": true
+    },
+    "CTRM": {
+        "short": false
+    },
+    "KIM": {
+        "short": true
+    },
+    "ORCL": {
+        "short": true
+    },
+    "AMTD": {
+        "short": true
+    },
+    "CAT": {
+        "short": true
+    },
+    "HWM": {
+        "short": true
+    },
+    "ATVI": {
+        "short": true
+    },
+    "LVGO": {
+        "short": true
+    },
+    "LYV": {
+        "short": true
+    },
+    "LKQ": {
+        "short": true
+    },
+    "NET": {
+        "short": true
+    },
+    "XLF": {
+        "short": true
+    },
+    "MTCH": {
+        "short": true
+    },
+    "ENDP": {
+        "short": false
+    },
+    "ORI": {
+        "short": true
+    },
+    "PENN": {
+        "short": false
+    },
+    "GS": {
+        "short": true
+    },
+    "TSLA": {
+        "short": true
+    },
+    "UNH": {
+        "short": true
+    },
+    "BE": {
+        "short": true
+    },
+    "EXEL": {
+        "short": true
+    },
+    "WMT": {
+        "short": true
+    },
+    "SYY": {
+        "short": true
+    },
+    "BIDU": {
+        "short": true
+    },
+    "HON": {
+        "short": true
+    },
+    "DISCK": {
+        "short": true
+    },
+    "DOCU": {
+        "short": true
+    },
+    "WMB": {
+        "short": true
+    },
+    "SM": {
+        "short": true
+    },
+    "HLT": {
+        "short": true
+    },
+    "CNP": {
+        "short": true
+    },
+    "DBX": {
+        "short": true
+    },
+    "HCA": {
+        "short": true
+    },
+    "QRTEA": {
+        "short": true
+    },
+    "FCX": {
+        "short": true
+    },
+    "USB": {
+        "short": true
+    },
+    "MGM": {
+        "short": true
+    },
+    "NBL": {
+        "short": true
+    },
+    "FTI": {
+        "short": true
+    },
+    "CLDR": {
+        "short": true
+    },
+    "APA": {
+        "short": false
+    },
+    "CINF": {
+        "short": true
+    },
+    "ROST": {
+        "short": true
+    },
+    "GM": {
+        "short": true
+    },
+    "ITB": {
+        "short": true
+    },
+    "UVXY": {
+        "short": false
+    }
+}
